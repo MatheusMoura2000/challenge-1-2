@@ -1,2 +1,2 @@
 # challenge-1-2
-hw
+Make the code cleaner and make it more accessible to users with disabilities.
